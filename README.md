@@ -64,3 +64,4 @@ npm test
 This project is licensed under the MIT License.
 
 <!-- Updated organ search and tooltip capabilities -->
+<!-- Three.js texture cache and WebGL memory cleanup optimizations -->
